@@ -315,8 +315,8 @@ body {
 }
 
 .profile-img {
-  height: 180px;
-  width: 170px;
+  height: 300px;
+  width: auto;
   float: left;
   border: 3px outset #4C4C4D;
 }
